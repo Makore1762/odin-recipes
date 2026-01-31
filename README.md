@@ -14,7 +14,7 @@ Demostrar el dominio de los fundamentos de **HTML** y el flujo de trabajo profes
  > [!NOTE]
  > Este proyecto esta enfocado exclusivamente en la estructura. Lo estético se abordara en fases posteriores con la implementación de CSS
 
- Puedes ver el resultado en vivo aquí: [Enlace a GitHub Pages] () 
+ Puedes ver el resultado en vivo aquí: [Enlace a GitHub Pages](https://makore1762.github.io/odin-recipes/) 
 
  ## Tecnologías y Herramientas
  - **Lenguaje:** HTML5
